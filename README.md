@@ -77,12 +77,6 @@ Foi utilizado um modelo da família YOLO para detecção de objetos. O arquivo d
 
 ### Como reproduzir o treinamento
 
-Instale as dependências utilizadas pelo projeto:
-
-```bash
-pip install ultralytics
-```
-
 Execute o notebook de treinamento através do link abaixo, ou o script equivalente utilizado no projeto. Os caminhos do dataset e os parâmetros devem estar configurados de acordo com o ambiente.
 
 > https://colab.research.google.com/drive/1pE02WUSmt2LkXZgapcrtvYOeq2B8HKQZ?usp=sharing
