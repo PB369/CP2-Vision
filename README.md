@@ -9,7 +9,7 @@ Projeto desenvolvido para o checkpoint integrado **CPZÃO**, com o objetivo de a
 | Nome completo | RM |
 |---|---|
 | Pedro Barros | RM97937 |
-| [PREENCHER] | [PREENCHER] |
+| Arthur Baldissera | RM550219 |
 | Victor Kenzo | RM551649 |
 
 ## 2. Contexto e objetivo
@@ -169,7 +169,7 @@ A aplicação é uma **Progressive Web App (PWA)** feita com JavaScript e Vite. 
 ### Como usar o aplicativo
 
 1. Abra a aplicação no navegador e clique em **Model**.
-2. Selecione o arquivo `.onnx` treinado para a auditoria de calçadas. No computador, o navegador compatível abre um seletor de arquivos filtrado para ONNX. No iPhone/iPad, se aparecer um menu com opções como biblioteca de fotos, câmera e arquivos, escolha **Files/Arquivos** e localize o modelo.
+2. Selecione o arquivo `yolo26n.onnx`, presente na pasta `public/models/` e treinado para a auditoria de calçadas. No computador, o navegador compatível abre um seletor de arquivos filtrado para ONNX. No iPhone/iPad, se aparecer um menu com opções como biblioteca de fotos, câmera e arquivos, escolha **Files/Arquivos** e localize o modelo.
 3. Aguarde o carregamento do modelo. A versão usada neste projeto espera entrada de imagem de **192 × 192 pixels**. Se o modelo tiver sido exportado com outra resolução, a inferência poderá falhar.
 4. Para testar uma imagem estática, clique em **Upload** e escolha uma imagem. Confira se as caixas delimitadoras e os nomes das classes estão corretos.
 5. Para inferência ao vivo, clique em **Start** e permita o acesso à câmera quando o navegador solicitar. Use a câmera traseira do smartphone para a demonstração.
