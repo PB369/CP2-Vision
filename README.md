@@ -2,8 +2,6 @@
 
 Projeto desenvolvido para o checkpoint integrado **CPZÃO**, com o objetivo de aplicar Visão Computacional à auditoria de calçadas urbanas por meio de detecção de objetos usando YOLO e execução do modelo em um aplicativo móvel.
 
-> **Importante:** revise os campos marcados como `[PREENCHER]` e substitua-os pelos dados reais do grupo, do dataset e do treinamento antes de entregar. Não informe métricas ou quantidades que não tenham sido verificadas.
-
 ## 1. Integrantes
 
 | Nome completo | RM |
