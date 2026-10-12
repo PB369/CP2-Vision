@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "install": "^0.13.0",
     "onnxruntime-web": "1.18.0"
   },
   "devDependencies": {
