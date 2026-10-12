@@ -49,8 +49,6 @@ As imagens devem representar situações variadas de calçadas, condições de i
 | Número de classes | 3 |
 | Ferramenta de anotação | Roboflow |
 
-**Requisito da atividade:** utilizar pelo menos 60 imagens rotuladas e pelo menos 3 classes distintas. Registre aqui a contagem efetivamente conferida, sem considerar imagens sem anotação válida como imagens rotuladas.
-
 ### Estrutura esperada
 
 ```text
